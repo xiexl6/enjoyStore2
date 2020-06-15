@@ -97,7 +97,7 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
-                    <outputDirectory>D:\work_dir\publish</outputDirectory>
+                    <outputDirectory>C:\work_dir\publish</outputDirectory>
                 </configuration>
             </plugin>
         </plugins>

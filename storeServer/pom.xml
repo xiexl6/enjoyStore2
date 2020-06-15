@@ -81,7 +81,7 @@
                 <artifactId>maven-shade-plugin</artifactId>
                 <version>1.7.1</version>
                 <configuration>
-                    <outputDirectory>D:\work_dir\publish</outputDirectory>
+                    <outputDirectory>C:\work_dir\publish</outputDirectory>
                 </configuration>
                 <executions>
                     <execution>

@@ -44,7 +44,7 @@
           </execution>
         </executions>
         <configuration>
-          <outputDirectory>D:\work_dir\publish</outputDirectory>
+          <outputDirectory>C:\work_dir\publish</outputDirectory>
         </configuration>
       </plugin>
     </plugins>
