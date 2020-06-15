@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xxl-portal:war">
+    <output-path>$PROJECT_DIR$/xxl-portal/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>xxl-portal</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="xxl-portal.war">
+      <element id="artifact" artifact-name="xxl-portal:war exploded" />
+    </root>
+  </artifact>
+</component>

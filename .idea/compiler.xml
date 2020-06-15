@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="store_Server" />
+        <module name="store_spi" />
+        <module name="store_portal" />
+        <module name="xxl-server" />
+        <module name="store_api" />
+        <module name="xxl-portal" />
+        <module name="store_Server_Api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="enjoyStore2" target="1.7" />
+      <module name="mall-mvc" target="1.8" />
+      <module name="mall-new" target="1.8" />
+      <module name="mall-support" target="1.7" />
+      <module name="order-server" target="1.7" />
+      <module name="store_api" target="1.7" />
+      <module name="store_portal" target="1.7" />
+      <module name="store_Server" target="1.7" />
+      <module name="store_Server_Api" target="1.7" />
+      <module name="store_spi" target="1.7" />
+      <module name="storeboot" target="1.7" />
+      <module name="xxl-portal" target="1.7" />
+      <module name="xxl-server" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

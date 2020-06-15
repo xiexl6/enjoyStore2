@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/storeApi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storePotal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storePotal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storeServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storeServer/src/main/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storeServerApi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/store_spi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/store_spi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxl-portal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxl-portal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxl-server/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
